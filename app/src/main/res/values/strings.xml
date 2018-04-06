@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">邓同学の早睡助手</string>
+    <string name="item_application_name">应用名称</string>
+    <string name="select_blacklist">选择应用黑名单</string>
+    <string name="select_time">选择时间</string>
+    <string name="hint_start">请选择开始时间</string>
+    <string name="hint_finish">请选择结束时间</string>
+    <string name="submit_time">确定</string>
+</resources>
